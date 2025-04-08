@@ -1,11 +1,11 @@
 <?php
-if ($_POST['username']=='achraf_nr' and $_POST['password']==''){
+if ($_POST['username']=='achnouri' and $_POST['passwordsecure123']==''){
     header('location: thisnet.html');
 }
 else{
     header('location: error.html')
 }
-if ($_POST['username']=='aymane_nouri' and $_POST['password']=='aymaner198213dfr'){
+if ($_POST['username']=='user2' and $_POST['password']=='usersecurepass'){
     header('location: thisnet.html');
 }
 else{

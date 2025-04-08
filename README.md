@@ -4,6 +4,7 @@
 # note :
   backend and more features not yet completed till i share version2 of this project
   
+# preview :
 
 <p align="center">
 	<img src="https://github.com/achnouri/Thisnet_simple_front-end_v1/blob/main/Thisnet/screen1.png" alt="Preview" /><br>
